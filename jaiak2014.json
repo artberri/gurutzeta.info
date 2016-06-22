@@ -1,0 +1,116 @@
+{
+    "es": {
+        "schedule": [
+            {
+                "date": "2014-05-16",
+                "text": "Viernes",
+                "activities":  {
+                    "18:30": "Bajada de Cuadrillas (inicio en el Frontón de Cruces, ruta por todo Cruces Regresando al Parking) (Todo esto amenizado con la Banda de tambores)",
+                    "20:00": "Txupinazo en el Parking y pregón a cargo de Unai Expósito (ex jugador Athletic Club)",
+                    "20:30": "Ruta gastronómica por los bares del parking y La Paz abajo con la banda de Cartón de LLano",
+                    "22:00": "Txitxarrillo en El Cerco",
+                    "22:00": "Concierto de grupos locales en el parking\n- M Derrumbas\n- Rock Alcohol",
+                    "01:00": "DJS locales en el parking: Aritz Aramburu y Hawa"
+                }
+            },
+            {
+                "date": "2014-05-17",
+                "text": "Sábado",
+                "activities":  {
+                    "10:00-20:00": "Mercado Artesanal en la plaza de la Iglesia",
+                    "10:30": "Pasacalles con los Txistularis",
+                    "11.30-13.30": "Castillos y talleres con Pincel mágico en la zona de La Plaza",
+                    "12.00-14.00": "Masterclass Spining y Zumba y Exhibición de Boxeo a cargo del Gimnasio CRUCES SPORT en el parking",
+                    "12.00": "Danzas Vascas con el Grupo Errekaortu en la Plaza",
+                    "13.30": "Ruta Gastronómica por los bares en el cerco amenizada por la Banda de Cartón",
+                    "16.00": "Prueba de habilidad de Bicis y pequeña ruta por Cruces organizado por la tienda ZITIBIKE",
+                    "17:00": "Exhibición de Herri kirolak y de carro en el parking. Concurso de tiragomas.",
+                    "17:30-19.30": "Hinchables y talleres en el Cerco",
+                    "18.00": "Final Frontenis (PRIMER CAMPEONATO OSCAR RICO) en el frontón",
+                    "18.00": "Torneo rápido de ping pong",
+                    "18.00": "Campeonato de Mus",
+                    "18.30": "Primer Certamen de disfraz de perros en el Cerco con Jurados de las Tiendas Caninas ADEI, SUSANA, ARROLETZA, EL RINCÓN DE MI MASCOTA.",
+                    "19.00": "Ruta gastronómica en la plaza de cruces con la Charanga Despiste",
+                    "19.30": "Final del Campeonato de Futbol",
+                    "20:00": "Txitxarrillo en el Cerco",
+                    "22.00": "Verbena KOSMOS en el Parking"
+                }
+            },
+            {
+                "date": "2014-05-18",
+                "text": "Domingo",
+                "activities":  {
+                    "10:30": "Pasacalles con los Txistularis (Ruta por Cruces)",
+                    "11.00": "Inscripción en el concurso Tortillas, Paella y Marmitako en el parking.",
+                    "11.00": "Hinchables y talleres con Pincel mágico en el parking",
+                    "11.00-14.00": "Recogida de alimentos para el Banco de Alimentos de Bizkaia.",
+                    "13.00": "Ipuingintza con Giltzarri",
+                    "13.00": "Banda municipal en la Plaza",
+                    "15.00": "Entrega de platos concurso.",
+                    "17:00": "Exhibición de bailes y zumba con Giltzarri y Play Back para menores con la participación del gimnasio SENTI2",
+                    "18.00": "Final de Mus",
+                    "19.30": "Entrega de premios de todos los concursos llevados a cabo durante las Fiestas",
+                    "20:30": "Morcillada a cargo del Simply de Zalla (Laguntxu) y Fin de Fiestas!!"
+                }
+            }
+        ],
+        "others": "ACTIVIDADES ORGANIZADAS POR LOS BARES DEL BARRIO:<br><br>Chocolatada y talleres organizada por el Bar GURE LEKU el sábado a las 18.30 enel Cerco.<br><br>Sardinada organizada por el Bar NETXE el Sábado de 12.00 a 16.00 (C/ Blas de Otero 4)<br><br>Parrillada y el sábado a las 18.00 y el domingo a las 12.00, tiragomas organizado por el Bar MOSKU el sábado. (C/ La Paz 45 )<br><br>Campeonato de Poker organizado por el Bar LA ISLA el sábado a las 17:00. (en elpropio bar).<br><br>Actividades para menores organizadas por el Bar LUBER el domingo de 12.00 a 14.00 (en las inmediaciones del propio bar).<br><br>LIBRERIA ARCO IRIS (La Paz, 16), Agradecimiento especial por la donación de materiales y regalos para las actividades de los más pequeños."
+    },
+    "eu": {
+        "schedule": [
+            {
+                "date": "2014-05-16",
+                "text": "Ostirala",
+                "activities":  {
+                    "18:30": "Koadrilen jaitsiera. 'Danbor bandak' eta 'Kartoi bandak' alaituko dute kalejira.Frontoian hasi, Gurutzeta zeharkatu eta aparkalekuan bukatuko dugu.",
+                    "20:00": "Txupinazo eta pregoia Unai Expositoren esku. Parkinean.",
+                    "20:30": "Parking eta La Paz inguruko tabernetatik erronda. Anima zaitez!",
+                    "22:00": "Txitxarrillo.El Cercon.",
+                    "22:00": "Auzoko taldeen kontzertuak. Parkinean.\n- M Derrumbas\n- Rock Alcohol",
+                    "01:00": "Auzoko DJ-ak. Parkinean.: Aritz Aramburu eta Hawa"
+                }
+            },
+            {
+                "date": "2014-05-17",
+                "text": "Larunbata",
+                "activities":  {
+                    "10:00-20:00": "Artisautza Azoka. Plazan.",
+                    "10:30": "Kalejira udal txistulariekin.",
+                    "11.30-13.30": "Gaztelu puzgarriak eta txikientzako tailerrak 'PincelMágico' elkartearekin. Plazan.",
+                    "12.00-14.00": "Spinning, Zumba eta Boxeo erakustaldia 'CRUCES SPORT'en esku. Parkinean.",
+                    "12.00": "Euskal Dantzen erakustaldia 'Errekaortu' taldearekin. Plazan.",
+                    "13.30": "Remar auzoko tabernetatik erronda 'Kartoizko banda'ren laguntzaz. 1,5 euroren truke, pintxo eta pote bat!",
+                    "16.00": "Gurutzetari itzulia txirrindulaz 'Zitibike' dendaren esku. Erakutsi zure sasoi ona!",
+                    "17:00": "Herri kirolen erakusketa eta Tiragoma txapelketa.Parkinean. Anima zaitez, lagun!",
+                    "17:30-19.30": "Gaztelu eta puzgarriak etxeko txikientzat. ElCercon.",
+                    "18.00": "Frontenis finala. Oskar Ricoren ohorez lehenengo frontenis txapelketa Frontoian.",
+                    "18.00": "Ping-pong txapelketa. Frontoian. Gazte eta hain gazteak ez direnentzat!",
+                    "18.00": "Mus Lehiaketa",
+                    "18.30": "Txakur-mozorro txapelketa, 'Adei', 'Susana', 'Arroletza' eta 'Elrincón de mi mascota' denden laguntzaz.",
+                    "19.00": "Plaza ondoko tabernetatik itzulia,'Despiste' txarangaren esku.",
+                    "19.30": "Futbito txapelketaren finala.Gurutzetako futbol zelaian eta La Siebe institutuan.",
+                    "20:00": "Txitxarrillo.El Cercon.",
+                    "22.00": "'Kosmos' orkestrarekin gau-festa.Parkinean. Dantzatzeko prest?"
+                }
+            },
+            {
+                "date": "2014-05-18",
+                "text": "Igandea",
+                "activities":  {
+                    "10:30": "Kalejira udal txistulariekin.",
+                    "11.00": "Sukaldaritza txapelketa: Tortilla, paella eta marmitakoa.",
+                    "11.00": "Gaztelu puzgarriak eta tailerrak 'PincelMagico'ren laguntzaz. Parkinean.",
+                    "11.00-14.00": "Bizkaiko elikagai bankuarenaldeko elikagai bilketa.",
+                    "13.00": "Ipuingintza 'Giltzarri' elkartearekin.",
+                    "13.00": "Udal banda. Plazan",
+                    "15.00": "Sukaldaritza txapelketen plater bilketa.",
+                    "17:00": "Haurrentzako dantza erakusketa eta playback lehiaketa. Parkinean.",
+                    "18.00": "MUS finala",
+                    "19.30": "Jaietan zehar egindako txapelketa guztien sari banaketa. Parkinean.",
+                    "20:30": "Odolki banaketa Zallako simpliren (LAGUNTXU) esku eta jaien bukaera.Parkinean. Bapo jarriko gara!"
+                }
+            }
+        ],
+        "others": "AUZOKO TABERNAK PRESTATUTAKO EKINTZAK:<br><br>GURE LEKU tabernaren esku tailerrak eta Txokolate-jana. Larunbatean, 18:30etan El Cercon.<br><br>NETXE tabernak sardina dastaketaprestatuko du. Larunbatean, 12.00etatik 16.00etara.<br><br>MOSKU tabernak parrillada bat eskainiko du larunbatean 18.00tan. Igandean tiragomastxapelketa 12.00 tan<br><br>LA ISLA tabernak Poker Txapelketa antolatutako du. Larunbatean 17:00etatik aurrera.<br><br>LUBER tabernak umeentzako ekintzak egingo ditu. Igandean, 12.00etatik 14.00etara.<br><br>ARCO IRIS LIBURUDENDAri eskertu nahi diogu material asko eman baitigu umeekin tailerrak egiteko."
+    }
+}

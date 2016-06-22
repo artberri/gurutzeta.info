@@ -1,0 +1,138 @@
+{
+    "es": {
+        "schedule": [
+            {
+                "date": "2015-05-15",
+                "text": "Viernes",
+                "activities":  {
+                    "18:30": "Bajada de cuadrillas desde el Frontón.",
+                    "20:00": "Pregón de la mano de Arantxa Ramos en el Parking de La Paz, Txupinazo e inicio de Fiestas",
+                    "20:30": "Ruta gastronómica por los bares de la  Zona de Vista Alegre  amenizado por la BANDA DE CARTON DE LLANO",
+                    "22:00-01:00": "Txitxarrillo en el Cerco",
+                    "23:00-02:00": "Concierto Tributo a Platero y Tu (Parking de la Paz)",
+                    "02:00": "Música con DJ Osuna (Parking de la Paz)"
+                }
+            },
+            {
+                "date": "2015-05-16",
+                "text": "Sábado",
+                "activities":  {
+                    "10:00-20:00": "Feria Agrícola en La Plaza de La Iglesia ",
+                    "10.00": "Diana con los Txistularis del Ayuntamiento por la Zona de Cruces Centro",
+                    "11:00-14:00": "Clases prácticas de Patin (Hockey) a cargo de GURUTZETA PATIN TALDEA en el parque de Mugitzen",
+                    "11:00-14:00": "Exhibiciones Deportivas a Cargo de, SENTI2 (Parking de la Paz)",
+                    "11:00-14:00": "Partidas de Ajedrez simultaneas en el Centro Civico de Cruces",
+                    "11:00-13:00": "Castillos hinchables y actividades para los más pequeños en el COLEGIO PÚBLICO JUAN RAMON JIMENEZ y talleres con el grupo GAZTEXOAK",
+                    "11.30": "Exhibición SEAT 600 (Asociación Bizkaina Amigos del 600) en el Parking de La Paz y posterior recorrido por el barrio",
+                    "12:00-14:00": "Exhibición Zumba en el Cerco con TANIA NEIRA",
+                    "12:00-14:00": "Taller de pintura de la mano de COLORAMA para pequeños y mayores en La Paz 45.",
+                    "12:30-14:00": "Ruta Gastronómica por los bares de La Paz amenizado por la BANDA DE CARTON DE LLANO",
+                    "16:00": "Carrera de Bicis Familiar de la mano de la tienda ZITIBIKE, desde donde se comenzará el recorrido",
+                    "16:00": "Final campeonato de Mus",
+                    "17:00": "Exhibición de Herri kirolak, Sokatira y carro en el Parking",
+                    "17:00": "Final Frontenis (SEGUNDO CAMPEONATO OSCAR RICO) en el frontón",
+                    "17:00-19:00": "Castillos hinchables y actividades para los más pequeños en el COLEGIO PÚBLICO JUAN RAMON JIMENEZ",
+                    "17:00-19:00": "Talleres para menores en la Plaza de la Iglesia",
+                    "18:00": "Exhibición de danzas Vascas en La plaza de Cruces.",
+                    "18:00-20:00": "DISCOTECA para los adolescentes en el Cerco.",
+                    "18:30": "II Certamen de Disfraz de perros con la colaboración de ADEI, EL RINCÓN DE MI MASCOTA, SUSANA (Parking de Beteluri)",
+                    "19:00": "Gurutzeta kantari a cargo de Athletic Club Gurutzeta Taldea. Ven con nosotros a cantar las canciones populares de siempre. Alegrando todos los rincones de nuestro barrio. Prepara tu voz y participa!!! (Salida Taberna Txakun)",
+                    "19:00-20:00": "Semifinal 2º Campeonato Futsal",
+                    "19:00-20:00": "Semifinal baloncesto",
+                    "20:00-21:00": "Final Futbito 2º Campeonato Futsal",
+                    "20:00-21:00": "Final Baloncesto",
+                    "20:30": "Ruta Gastronómica por los bares de Remar Y Cruces centro  amenizado por la BANDA DE CARTON DE LLANO y la BATUCADA KUN KUN.",
+                    "22:00-01:00": "Txitxarrillo en el Cerco",
+                    "22:30-01:30": "Verbena con la ORQUESTA COSMOS",
+                    "02:00": "Musica en la Txosna"
+                }
+            },
+            {
+                "date": "2015-05-17",
+                "text": "Domingo",
+                "activities":  {
+                    "10.00-15.00": "Feria Agrícola en La iglesia.",
+                    "11.00-13.00": "Castillos hinchables para los más pequeños en el Parking de La Paz y Espuma si el tiempo lo permite.",
+                    "11.00": "Inscripción en el concurso de Tortillas, Paella y Marmitako en el Parking.",
+                    "11.00": "Ginkana gaztea para los más pequeños organizado por GILTZARRI",
+                    "11.30-14.30": "Recogida de comida para el Banco de Alimentos de Bizkaia",
+                    "13.00": "Banda Municipal en La Plaza de Cruces.",
+                    "14.30": "Entrega de Platos concurso Gastronómico.",
+                    "17.00-19.00": "Concurso Playback<br>\n1era Categoría: 3 a 10 Años<br>\n2da Categoría: 11 a 18 Años<br>\n3era categoría: Mayores de 18 Años",
+                    "19.30": "Entrega de premios de todos los concursos llevados a cabo durante las Fiestas",
+                    "20.30": "Txorizada",
+                    "21.00": "Txupinazo y Fin de Fiestas"
+                }
+            }
+        ],
+        "others": "ACTIVIDADES ORGANIZADAS POR LOS COMERCIOS:<br><br>Campeonato Dardos (Bar Restaurante URKIA y Bar ANAITASUNA) Sábado a partir de las 16.00<br><br>Sardinada en el Bar NETXE el Sábado a partir de las 20.30<br><br>Restaurante KING CROSS Castillos hinchables Sábado y Domingo todo el día.<br><br>BODEGON ROSARIO Concierto Café Cubano a las 20.00.<br><br>Bar GURE LEKU Chocolatada el sábado de 17.30 a 19.00.<br><br>Bar TOBERA; TASCA LA FRASCA (Antiguo Josetxu) y BODEGUILLA DE PILI sardinada el Sábado de 19.00 a 21.00.<br><br>Bar BIZKAIA Mercadillo de segunda mano Sábado y Domingo de 16.00 a 21.00<br><br>Bar Restaurante LA ISLA Parrillada el Viernes a las 19.00 y Campeonato de Poker el sábado a las 19.00 .<br><br>Bar ZUBIA:<br>-El Viernes champis a partir de las 20.30.<br>-El Sábado 12.00 a 15.00 Champis y pintxos morunos y de 19.00 a 22.00 Pintxos morunos.<br>-El domingo Champis y pintxos morunos de 12.00 a 15.00.<br><br>Taberna TXAKUN:<br>-Txalapartaris Viernes a las 20.00, Sábado a las 20.00 y Domingo a las 13.00.<br>-Concierto de los 80 “SK LIVE”. El Sábado a las 21.00<br>-Música con DJ el Sábado después de la verbena.<br><br>Bar PARADA Campeonato de Rana el Sábado a las 12.00.<br><br>Campeonato de Mus Bar PARADA; MOSKU y BERMEOTARRAK<br><br>Degustación LUBER cama elástica el sábado y domingo  todo el día.<br><br>Bar MOSKU Sábado  de 10 a 15 horas hinchables y de 12 a 16 horas parrillada"
+    },
+    "eu": {
+        "schedule": [
+            {
+                "date": "2015-05-15",
+                "text": "Ostirala",
+                "activities":  {
+                    "18:30": "Koadrilen jaitsiera.  Frontoian hasi, Gurutzeta zeharkatu eta aparkalekuan bukatuko dugu.",
+                    "20:00": "Txupinazo eta pregoia Arantxa Ramosen esku. Parkinean.",
+                    "20:30": "Vista Alegre inguruko tabernetatik erronda. Anima zaitez!",
+                    "22:00-01:00": "Txitxarrillo. El Cercon",
+                    "23:00-02:00": "Kontzertua \"Platero y tu\"-ren tributoarekin",
+                    "02:00": "Auzoko DJ-ak.Parkinean."
+                }
+            },
+            {
+                "date": "2015-05-16",
+                "text": "Larunbata",
+                "activities":  {
+                    "10.00-20.00": "Artisautza Azoka. Plazan.",
+                    "10.00": "Kalejira udal txistulariekin.",
+                    "11.00-14.30": "Irristatzeko (Hockey) clase praktikoak Mugitzen , Gurutzetako Patin taldearen esku",
+                    "11.00-13.00": "Gaztelu puzgarriak eta txikientzako tailerrak Juan Ramon Jimenez Herri ikastetxean.",
+                    "11.00-14.00": "Spinning, Zumba eta Boxeo erakustaldia  SENTI2 Parkinean.",
+                    "11.00-14.00": "Xake partidak Gurutzetako Zentru Zibikoan.",
+                    "11.00-13.00": "Gaztelu puzgarriak eta txikientzako tailerrak Juan Ramon Jimenez Herri ikastetxean.",
+                    "12.00-14.00": "Zumba El Cercon TANIA NEIRAREN eskutik.",
+                    "11.30": "Seat 600-en erakusketa parkinean (Asociación Bizkaina Amigos del 600)",
+                    "11.30-14.00": "Bizkaiko elikagai bankuarenaldeko elikagai bilketa.",
+                    "12.00-14.00": "Pintura tailerra COLORAMA dendaren esku",
+                    "12.30-14.00": "La Paz auzoko tabernetatik erronda 'Kartoizko banda'ren laguntzaz.",
+                    "16.00": "Gurutzetari itzulia txirrindulaz 'Zitibike' dendaren esku. Erakutsi zure sasoi ona!",
+                    "16.00": "Mus lehiaketaren finala",
+                    "17.00": "Herri kirolen erakusketa Parkinean. Anima zaitez, lagun!",
+                    "17.00": "Frontenis finala.Oskar Ricoren ohorez bigarren frontenis txapelketa Frontoian.",
+                    "18.00-20.00": "Nerabeei zuzendutako diskoteka El Cercon.",
+                    "18.00": "Euskal Dantzen erakustaldia 'Errekaortu' taldearekin. Plazan.",
+                    "18.30": "Txakur-mozorro txapelketa, \"Adei\", \"Susana\", \"Arroletza\" eta \"El rincón de mi mascota\" denden laguntzaz.",
+                    "19.00": "Plaza ondoko tabernetatik itzulia Llanoko Kartoizko banda eta kun kun batukadaren esku.",
+                    "19.00": "Gurutzeta kantari Athletic Club Gurutzeta Taldearen esku. Zatoz gurekin giro ezinhobehan betiko abesti popularrak abestera. Prestatu zure ahotsa eta parte hartu.(Txakun tabernatik hasiko da)",
+                    "19.00": "Futbito txapelketaren semifinala.La Siebe institutuan.",
+                    "19.00": "Saskibaloi txapelketaren semifinala.La Siebe institutuan.",
+                    "20.00": "Futbito txapelketaren finala.La Siebe institutuan.",
+                    "20.00": "Saskibaloi txapelketaren finala.La Siebe institutuan.",
+                    "20.30": "Remar auzoko tabernetatik erronda \"Kartoizko banda\" eta Kun kun batukadaren laguntzaz.",
+                    "22.00-01.00": "Txitxarrillo.El Cercon.",
+                    "22.00": "'Kosmos' orkestrarekin gau-festa.Parkinean. Dantzatzeko prest?"
+                }
+            },
+            {
+                "date": "2015-05-17",
+                "text": "Igandea",
+                "activities":  {
+                    "10.00-20.00": "Artisautza Azoka. Plazan.",
+                    "11.00": "Sukaldaritza txapelketa: Tortilla, paella eta marmitakoa.",
+                    "11.00": "Ginkana Gaztea Haurrentzat Giltzarriren esku",
+                    "11.00-13.00": "Gaztelu puzgarriak eta tailerrak Parkinean.",
+                    "11.00-14.30": "Bizkaiko elikagai bankuarenaldeko elikagai bilketa.",
+                    "13.00": "Udal bandaren erakusketa",
+                    "14.30": "Sukaldaritza txapelketen plater bilketa.",
+                    "17.00": "Haurrentzako dantza erakusketa eta playback lehiaketa.Parkinean.",
+                    "19.30": "Jaietan zehar egindako txapelketa guztien sari banaketa. Parkinean.",
+                    "20.30": "Odolki banaketa Zallako simpliren (LAGUNTXU) esku eta jaien bukaera.Parkinean. Bapo jarriko gara!",
+                    "21.00": "Txupinazoa eta jaien amaiera."
+                }
+            }
+        ],
+        "others": "Dardo Txapelketa (Bar Restaurante URKIA eta Bar ANAITASUNA) Larubata arratsaldeko 16.00tik aurrera<br><br>Sadinada Bar NETXEn Larunbata 20.30tik aurrera<br><br>Restaurante KING KROOS Gaztelu puzgarriak asteburu osoan Castillos <br><br>BODEGON ROSARIO Kontzertu Kubanoa 20.00tan. <br><br>Bar GURE LEKU Txokolatada.Larunbata 17.30tatik 19.00tara.<br><br>Bar TOBERA; TASCA LA FRASCA (Antiguo Josetxu) y BODEGUILLA DE PILI sardinada Larunbata 19.00tatik 21.00tara.<br><br>Bar BIZKAIA  Bigarren eskuko merkatua Larunbata eta Igandea 16.00 tatik 21.00 tara<br><br>Bar Restaurante LA ISLA Parrillada Ostirala 19.00tan etaPoker txapelketa Larunbata 19.00tan.<br><br>Bar ZUBIA:<br>-Ostiralean txampiak 20.30tatik aurrera.<br>-Larunbatan 12.00tik 15.00tara Txampi eta pintxo morunoak eta  19.00tatik 22.00tara Pintxos morunoak. <br>-Igandean Txampis y pintxo morunoak 12.00tatik 15.00tara.<br><br>Taberna TXAKUN: <br>-Txalapartariak Ostiral eta larunbatean 20.00tan eta Igandean 13.00tan.<br>-'SK LIVE' Kontzertua. Larunbata 21.00tan.<br>-Berbena amaitu ondoren musika DJ-rekin.<br><br>Bar PARADA Rana txapelketa Larunbata 12.00tan.<br><br>Mus Txapelketa Bar PARADA; MOSKU y BERMEOTARRAK<br><br>Degustación LUBER Ohe elastikoa asteburu osoan.<br><br>Bar MOSKU Gaztelu puzgarriak Larunbata 10.00tatik 15.00tara eta parrillada Larunbata 12.00tatik 15.00tara."
+    }
+}

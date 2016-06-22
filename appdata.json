@@ -1,0 +1,357 @@
+{
+  "version": "2016.0.1",
+  "schedule": {
+    "es": [
+      {
+        "title": "Jueves",
+        "description": "12 de mayo",
+        "schedule": [
+          {
+            "time": "18:30",
+            "description": "Espectáculo de magia para los más pequeños. Asociación de Ilusionistas de Bizkaia.",
+            "icon": "eye"
+          },
+          {
+            "time": "20:00",
+            "description": "Clases de Funky para todo el que quiera participar de la mano de SENTI2 en el recinto festivo.",
+            "icon": "md-contacts"
+          },
+          {
+            "time": "20:00",
+            "description": "Actuación músical de la BANDA DE CARTÓN por Remar.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "20:30",
+            "description": "Barbacoa popular en el recinto festivo. Cortesía de CARNICERÍA ELENA.",
+            "icon": "restaurant"
+          },
+          {
+            "time": "22:30",
+            "description": "Concierto de SAGARDOLE en el recinto festivo.",
+            "icon": "musical-notes"
+          }
+        ]
+      },
+      {
+        "title": "Viernes",
+        "description": "13 de mayo",
+        "schedule": [
+          {
+            "time": "18:30",
+            "description": "Espectáculo de magia para los más pequeños. Asociación de Ilusionistas de Bizkaia.",
+            "icon": "eye"
+          },
+          {
+            "time": "20:00",
+            "description": "Clases de Funky para todo el que quiera participar de la mano de SENTI2 en el recinto festivo.",
+            "icon": "md-contacts"
+          },
+          {
+            "time": "20:00",
+            "description": "Actuación músical de la BANDA DE CARTÓN por Remar.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "20:30",
+            "description": "Barbacoa popular en el recinto festivo. Cortesía de CARNICERÍA ELENA.",
+            "icon": "restaurant"
+          },
+          {
+            "time": "22:30",
+            "description": "Concierto de SAGARDOLE en el recinto festivo.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "18:30",
+            "description": "Espectáculo de magia para los más pequeños. Asociación de Ilusionistas de Bizkaia.",
+            "icon": "eye"
+          },
+          {
+            "time": "20:00",
+            "description": "Clases de Funky para todo el que quiera participar de la mano de SENTI2 en el recinto festivo.",
+            "icon": "md-contacts"
+          },
+          {
+            "time": "20:00",
+            "description": "Actuación músical de la BANDA DE CARTÓN por Remar.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "20:30",
+            "description": "Barbacoa popular en el recinto festivo. Cortesía de CARNICERÍA ELENA.",
+            "icon": "restaurant"
+          },
+          {
+            "time": "22:30",
+            "description": "Concierto de SAGARDOLE en el recinto festivo.",
+            "icon": "musical-notes"
+          }
+        ]
+      },
+      {
+        "title": "Sábado",
+        "description": "14 de mayo",
+        "schedule": [
+          {
+            "time": "18:30",
+            "description": "Espectáculo de magia para los más pequeños. Asociación de Ilusionistas de Bizkaia.",
+            "icon": "eye"
+          },
+          {
+            "time": "20:00",
+            "description": "Clases de Funky para todo el que quiera participar de la mano de SENTI2 en el recinto festivo.",
+            "icon": "md-contacts"
+          },
+          {
+            "time": "20:00",
+            "description": "Actuación músical de la BANDA DE CARTÓN por Remar.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "20:30",
+            "description": "Barbacoa popular en el recinto festivo. Cortesía de CARNICERÍA ELENA.",
+            "icon": "restaurant"
+          },
+          {
+            "time": "22:30",
+            "description": "Concierto de SAGARDOLE en el recinto festivo.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "18:30",
+            "description": "Espectáculo de magia para los más pequeños. Asociación de Ilusionistas de Bizkaia.",
+            "icon": "eye"
+          },
+          {
+            "time": "20:00",
+            "description": "Clases de Funky para todo el que quiera participar de la mano de SENTI2 en el recinto festivo.",
+            "icon": "md-contacts"
+          },
+          {
+            "time": "20:00",
+            "description": "Actuación músical de la BANDA DE CARTÓN por Remar.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "20:30",
+            "description": "Barbacoa popular en el recinto festivo. Cortesía de CARNICERÍA ELENA.",
+            "icon": "restaurant"
+          },
+          {
+            "time": "22:30",
+            "description": "Concierto de SAGARDOLE en el recinto festivo.",
+            "icon": "musical-notes"
+          }
+        ]
+      },
+      {
+        "title": "Domingo",
+        "description": "15 de mayo",
+        "schedule": [
+          {
+            "time": "18:30",
+            "description": "Espectáculo de magia para los más pequeños. Asociación de Ilusionistas de Bizkaia.",
+            "icon": "eye"
+          },
+          {
+            "time": "20:00",
+            "description": "Clases de Funky para todo el que quiera participar de la mano de SENTI2 en el recinto festivo.",
+            "icon": "md-contacts"
+          },
+          {
+            "time": "20:00",
+            "description": "Actuación músical de la BANDA DE CARTÓN por Remar.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "20:30",
+            "description": "Barbacoa popular en el recinto festivo. Cortesía de CARNICERÍA ELENA.",
+            "icon": "restaurant"
+          },
+          {
+            "time": "22:30",
+            "description": "Concierto de SAGARDOLE en el recinto festivo.",
+            "icon": "musical-notes"
+          }
+        ]
+      }
+    ],
+    "eu": [
+      {
+        "title": "Osteguna",
+        "description": "Maiatzak 12",
+        "schedule": [
+          {
+            "time": "18:30",
+            "description": "Espectáculo de magia para los más pequeños. Asociación de Ilusionistas de Bizkaia.",
+            "icon": "eye"
+          },
+          {
+            "time": "20:00",
+            "description": "Clases de Funky para todo el que quiera participar de la mano de SENTI2 en el recinto festivo.",
+            "icon": "md-contacts"
+          },
+          {
+            "time": "20:00",
+            "description": "Actuación músical de la BANDA DE CARTÓN por Remar.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "20:30",
+            "description": "Barbacoa popular en el recinto festivo. Cortesía de CARNICERÍA ELENA.",
+            "icon": "restaurant"
+          },
+          {
+            "time": "22:30",
+            "description": "Concierto de SAGARDOLE en el recinto festivo.",
+            "icon": "musical-notes"
+          }
+        ]
+      },
+      {
+        "title": "Ostirala",
+        "description": "Maiatzak 13",
+        "schedule": [
+          {
+            "time": "18:30",
+            "description": "Espectáculo de magia para los más pequeños. Asociación de Ilusionistas de Bizkaia.",
+            "icon": "eye"
+          },
+          {
+            "time": "20:00",
+            "description": "Clases de Funky para todo el que quiera participar de la mano de SENTI2 en el recinto festivo.",
+            "icon": "md-contacts"
+          },
+          {
+            "time": "20:00",
+            "description": "Actuación músical de la BANDA DE CARTÓN por Remar.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "20:30",
+            "description": "Barbacoa popular en el recinto festivo. Cortesía de CARNICERÍA ELENA.",
+            "icon": "restaurant"
+          },
+          {
+            "time": "22:30",
+            "description": "Concierto de SAGARDOLE en el recinto festivo.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "18:30",
+            "description": "Espectáculo de magia para los más pequeños. Asociación de Ilusionistas de Bizkaia.",
+            "icon": "eye"
+          },
+          {
+            "time": "20:00",
+            "description": "Clases de Funky para todo el que quiera participar de la mano de SENTI2 en el recinto festivo.",
+            "icon": "md-contacts"
+          },
+          {
+            "time": "20:00",
+            "description": "Actuación músical de la BANDA DE CARTÓN por Remar.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "20:30",
+            "description": "Barbacoa popular en el recinto festivo. Cortesía de CARNICERÍA ELENA.",
+            "icon": "restaurant"
+          },
+          {
+            "time": "22:30",
+            "description": "Concierto de SAGARDOLE en el recinto festivo.",
+            "icon": "musical-notes"
+          }
+        ]
+      },
+      {
+        "title": "Larunbata",
+        "description": "Maiatzak 14",
+        "schedule": [
+          {
+            "time": "18:30",
+            "description": "Espectáculo de magia para los más pequeños. Asociación de Ilusionistas de Bizkaia.",
+            "icon": "eye"
+          },
+          {
+            "time": "20:00",
+            "description": "Clases de Funky para todo el que quiera participar de la mano de SENTI2 en el recinto festivo.",
+            "icon": "md-contacts"
+          },
+          {
+            "time": "20:00",
+            "description": "Actuación músical de la BANDA DE CARTÓN por Remar.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "20:30",
+            "description": "Barbacoa popular en el recinto festivo. Cortesía de CARNICERÍA ELENA.",
+            "icon": "restaurant"
+          },
+          {
+            "time": "22:30",
+            "description": "Concierto de SAGARDOLE en el recinto festivo.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "18:30",
+            "description": "Espectáculo de magia para los más pequeños. Asociación de Ilusionistas de Bizkaia.",
+            "icon": "eye"
+          },
+          {
+            "time": "20:00",
+            "description": "Clases de Funky para todo el que quiera participar de la mano de SENTI2 en el recinto festivo.",
+            "icon": "md-contacts"
+          },
+          {
+            "time": "20:00",
+            "description": "Actuación músical de la BANDA DE CARTÓN por Remar.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "20:30",
+            "description": "Barbacoa popular en el recinto festivo. Cortesía de CARNICERÍA ELENA.",
+            "icon": "restaurant"
+          },
+          {
+            "time": "22:30",
+            "description": "Concierto de SAGARDOLE en el recinto festivo.",
+            "icon": "musical-notes"
+          }
+        ]
+      },
+      {
+        "title": "Igandea",
+        "description": "Maiatzak 15",
+        "schedule": [
+          {
+            "time": "18:30",
+            "description": "Espectáculo de magia para los más pequeños. Asociación de Ilusionistas de Bizkaia.",
+            "icon": "eye"
+          },
+          {
+            "time": "20:00",
+            "description": "Clases de Funky para todo el que quiera participar de la mano de SENTI2 en el recinto festivo.",
+            "icon": "md-contacts"
+          },
+          {
+            "time": "20:00",
+            "description": "Actuación músical de la BANDA DE CARTÓN por Remar.",
+            "icon": "musical-notes"
+          },
+          {
+            "time": "20:30",
+            "description": "Barbacoa popular en el recinto festivo. Cortesía de CARNICERÍA ELENA.",
+            "icon": "restaurant"
+          },
+          {
+            "time": "22:30",
+            "description": "Concierto de SAGARDOLE en el recinto festivo.",
+            "icon": "musical-notes"
+          }
+        ]
+      }
+    ]
+  }
+}
